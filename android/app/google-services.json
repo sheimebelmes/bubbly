@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529874782257",
+    "project_id": "bubbly-a2541",
+    "storage_bucket": "bubbly-a2541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529874782257:android:5a4af9f6de1fa3b88aad10",
+        "android_client_info": {
+          "package_name": "com.ezkel.bubbly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529874782257-j8mpgunkhq8k6edeqmv7oa2eo37hlka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4be72fGtmw8RwSqctRnT8l6AZVfE2k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529874782257-j8mpgunkhq8k6edeqmv7oa2eo37hlka7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
